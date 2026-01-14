@@ -45,6 +45,12 @@ Each stage is analyzed to understand conversion rates and revenue impact.
 - CRM-style thinking (Sales & Marketing alignment)
 - Business and revenue insights
 - GitHub documentation & project structure
+  
+## Data & Analysis
+- Simulated B2B funnel dataset representing lead-to-revenue flow
+- Python notebook analyzing funnel conversion rates
+- Funnel drop-off visualization to identify growth bottlenecks
+
 
 ---
 
